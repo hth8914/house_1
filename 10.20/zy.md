@@ -1,5 +1,5 @@
 10月20日 韩天昊
-# rds 整库部署
+# 工单03说明文档
 
 
 ### 一、核心用户与需求
@@ -227,6 +227,7 @@
 指标：访问该品类的搜索/访问/支付人群的male_ratio,fmale_ratio（性别分布）、total_visitor_num（总访客数）、new_old_ratio（新老客户占比）。
 
 来源：dws_store_gender_daycount, ads_sku_customer_insight_day
+
 
 
 
