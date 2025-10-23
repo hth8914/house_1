@@ -1,4 +1,4 @@
-10月20日 韩天昊
+10月22日 韩天昊
 # 工单04建库建表  完成
 
 一、 数据分层架构与实现
@@ -112,6 +112,7 @@ ods_store_info：店铺信息表。
 4. 客群洞察
    指标：访问该品类的搜索/访问/支付人群的gender_ratio（性别分布）、age_group_ratio（年龄分布）、new_user_ratio（新客占比）。
    来源：dws_store_gender_daycount, dws_store_age_daycount, dws_store_user_daycount。通过分析这些表，可以了解不同行为阶段的人群画像。
+
 
 
 
